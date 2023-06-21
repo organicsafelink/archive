@@ -6,13 +6,15 @@
     // Array of your random post URLs
     let postsArray = ['post1.html', 'post2.html', 'post3.html'];
 
-    function googleurl(){
-        window.location.href = 'https://www.google.com/search?q=site:YourWebsite.com';
-    }
+    // Google search URL
+    let googleSearchUrl = 'https://www.google.com/search?q=site:YourWebsite.com';
+
+    // Countdown timer variable
+    let timeleft = 30;
     ```
     
     ```html
-    <script src='https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.1/safelink-code/main_v1.0.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.1/safelink-code/main.min.js'></script>
     ```
     
 2. In the HTML page/post in which you will add the link, add it like this:
@@ -27,20 +29,26 @@
 
     ```html
     <!-- This is the countdown timer -->
-    <p id="countdown">30 seconds remaining</p>
+    <p id="countdown1" style="display: none;">30 seconds remaining</p>
 
     <!-- This is the button that will appear after the countdown. It's hidden by default. -->
-    <button id="continueButton" style="display: none;" onclick="redirectToGoogle()">Continue</button>
+    <button id="continueButton1" style="display: none;" onclick="redirectToGoogle()">Continue</button>
+   
+    <!-- This is the javascript initiator -->
+    <script>startCountdown('countdown1', 'continueButton1');</script>
     ```
 
 4. Lastly, add the following code on the homepage of your site where you will send the user from the search page:
 
     ```html
     <!-- This is the countdown timer -->
-    <p id="countdown2">30 seconds remaining</p>
+    <p id="countdown2" style="display: none;">30 seconds remaining</p>
 
     <!-- This is the button that will appear after the countdown. It's hidden by default. -->
     <button id="continueButton2" style="display: none;" onclick="redirectToDestination()">Continue</button>
+
+    <!-- This is the javascript initiator -->
+    <script>startCountdown('countdown2', 'continueButton2');</script>
     ```
 
 **Note**: Please note that this is just an alpha build; it doesn't contain any CSS. I will improve it in future builds.
