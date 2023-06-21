@@ -3,11 +3,13 @@
 1. Just add this JavaScript in your site above `</body>`
 
     ```javascript
+    <script>
     const config = {
     postsArray: ['post1.html', 'post2.html', 'post3.html'], // Array of your random post URLs
     googleRedirectURL: 'https://www.google.com/search?q=site:YourWebsite.com', // Google search URL
     countdownSeconds: 30, // Countdown timer variable
     }
+    </script>
     ```
     
     ```html
