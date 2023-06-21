@@ -11,6 +11,10 @@
     }
     ```
     
+    ```html
+    <script src='https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.1/safelink-code/main_v1.0.min.js'></script>
+    ```
+    
 2. In the HTML page/post in which you will add the link, add it like this:
 
     ```html
