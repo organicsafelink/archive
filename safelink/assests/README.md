@@ -5,7 +5,7 @@
 
 1. If you wish to modify the timer to your liking and needs, here is the unminified CSS version.
  
-```css
+  ```css
 svg.counterline {
   fill: none !important;
   stroke: #08102b;
