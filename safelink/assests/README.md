@@ -4,7 +4,7 @@
 
 1. This is the unminified css version of the timer if you wanted to customize it according to your taste and needs
 
-   ```css
+```css
   svg.counterline {
   fill: none !important;
   stroke: #08102b;
@@ -145,4 +145,4 @@
 .safelink-footer:not(.countdown-done) {
   display: none;
 }
-   ```
+```
