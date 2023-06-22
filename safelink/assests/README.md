@@ -17,28 +17,29 @@
       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.2/safelink/assests/timer-unminified.min.css">
       ```
 
-   (i) Alternatively, you may acquire the unminified CSS by executing this Python code, which will automatically beautify the minified CSS and output the timer's unminified CSS. Make sure you have all the important libraries installed for the code to run, though you can download them using `pip install requests cssbeautifier`.
+   (ii) Alternatively, you may acquire the unminified CSS by executing this Python code, which will automatically beautify the minified CSS and output the timer's unminified CSS. Make sure you have all the important libraries installed for the code to run, though you can download them using `pip install requests cssbeautifier`.
 
       ```python
-        import requests
-        import cssbeautifier
+      import requests
+      import cssbeautifier
 
-        # URL of the CSS file
-        url = "https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.2/safelink/assests/timer-minified.min.css"
+      # URL of the CSS file
+      url = "https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.2/safelink/assests/timer-minified.min.css"
 
-        # Fetch the CSS file content
-        response = requests.get(url)
-        css_code = response.text
+      # Fetch the CSS file content
+      response = requests.get(url)
+      css_code = response.text
 
-        # Beautify the CSS code
-        beautified_css = cssbeautifier.beautify(css_code)
+      # Beautify the CSS code
+      beautified_css = cssbeautifier.beautify(css_code)
 
-        # Print the beautified CSS
-        print(beautified_css)
+      # Print the beautified CSS
+      print(beautified_css)
 
       ```
+</br>
 
-3. If you don't want to modify anything and prefer the standard design, utilising the minified version of the CSS will be the best option because it has been entirely optimised. This version can be used by adding it using one of the ways listed below.
+2. If you don't want to modify anything and prefer the standard design, utilising the minified version of the CSS will be the best option because it has been entirely optimised. This version can be used by adding it using one of the ways listed below.
 
    (i) You can load the CSS externally using the below code; just add it above `</head>` in your site.
 
