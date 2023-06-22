@@ -4,7 +4,7 @@
 
 1. If you wish to modify the timer to your liking and needs, here is the unminified CSS version.
 </br>
-<div style="text-align: right;">
+<div align='center'>
   
 ```css
 svg.counterline {
