@@ -3,7 +3,7 @@
 **Note**: This directory contains the css of the timer. It contains two versions: a minified version for direct use and an unminified version if you want to customise it further.
 
 ### 1. This is the unminified css version of the timer if you wanted to customize it according to your taste and needs
-
+</br>
 
 ```css
 svg.counterline {
