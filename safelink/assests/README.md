@@ -4,7 +4,8 @@
 
 1. If you wish to modify the timer to your liking and needs, here is the unminified CSS version.
 </br>
-
+<div style="text-align: right;">
+  
 ```css
 svg.counterline {
   fill: none !important;
@@ -147,5 +148,6 @@ svg.counterline {
   display: none;
 }
 ```
+</div>
 
 2. If you don't want to modify anything and prefer the standard design, utilising the minified version of the CSS will be the best option because it has been entirely optimised. This version can be used by adding it using one of the ways listed below.
