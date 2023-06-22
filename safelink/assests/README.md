@@ -17,7 +17,7 @@
       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.2/safelink/assests/timer-unminified.min.css">
       ```
 
-   (i) Alternatively, you may acquire the unminified CSS by executing this Python code, which will automatically beautify the minified CSS and output the timer's unminified CSS.
+   (i) Alternatively, you may acquire the unminified CSS by executing this Python code, which will automatically beautify the minified CSS and output the timer's unminified CSS. Make sure you have all the important libraries installed for the code to run, though you can download them using `pip install requests cssbeautifier`.
 
       ```python
         import requests
@@ -43,6 +43,7 @@
    (i) You can load the CSS externally using the below code; just add it above `</head>` in your site.
 
       ```markdown
+      <!-- Add this above </head> if you wish to load the minified css externally -->
       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.2/safelink/assests/timer-minified.min.css">
       ```
 
