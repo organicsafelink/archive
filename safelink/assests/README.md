@@ -5,7 +5,7 @@
 
 1. If you wish to modify the timer to your liking and needs, here is the unminified CSS version.
  
-  ```css
+```css
 svg.counterline {
   fill: none !important;
   stroke: #08102b;
@@ -147,5 +147,12 @@ svg.counterline {
   display: none;
 }
 ```
+</br>
 
 2. If you don't want to modify anything and prefer the standard design, utilising the minified version of the CSS will be the best option because it has been entirely optimised. This version can be used by adding it using one of the ways listed below.
+
+   (i) You can load the CSS externally using the below code; just add it above </head> in your site.
+
+       ```html
+       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.2/safelink/assests/timer-minified.min.css">
+       ```
