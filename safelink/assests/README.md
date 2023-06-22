@@ -1,17 +1,9 @@
 # Documentation
 
 **Note**: This directory contains the css of the timer. It contains two versions: a minified version for direct use and an unminified version if you want to customise it further.
+</br>
 
 1. If you wish to modify the timer to your liking and needs, here is the unminified CSS version.
-   
-```markdown
-<style>
-  .highlight.highlight-source-css.notranslate.position-relative.overflow-auto {
-    border-radius: 20px;
-    margin-left: 50px;
-}
-</style>
-```
  
 ```css
 svg.counterline {
