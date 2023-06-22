@@ -5,13 +5,15 @@
 
 1. If you wish to modify the timer to your liking and needs, here are the ways to get the unminified CSS version.
 
-   (i) The unminified version may be found in the same location. Simply check above for a file called timer-unminified.min.css. I've provided links to both the github source and the jsdeliverr CDN for your convenience.
+   (i) The unminified version may be found in the same location. Simply check above for a file called timer-unminified.min.css. I've provided links to both the github source and the jsdeliverr CDN for your convenience. You can use the cdn to load the file externally just add the second html code above `</head>`.
 
       ```markdown
+      <!-- Copy the link and open it in the browser to get the unminified css directly -->
       <a href="https://go.amanstark.com/f78umnbqdxu">Unminified Css Github Link</a>
       ```
 
       ```markdown
+      <!-- Add this above </head> if you wish to load the unminified css externally -->
       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.2/safelink/assests/timer-unminified.min.css">
       ```
 
@@ -38,7 +40,7 @@
 
 3. If you don't want to modify anything and prefer the standard design, utilising the minified version of the CSS will be the best option because it has been entirely optimised. This version can be used by adding it using one of the ways listed below.
 
-   (i) You can load the CSS externally using the below code; just add it above </head> in your site.
+   (i) You can load the CSS externally using the below code; just add it above `</head>` in your site.
 
       ```markdown
       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.2/safelink/assests/timer-minified.min.css">
