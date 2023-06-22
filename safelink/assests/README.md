@@ -17,7 +17,6 @@
 
    (i) Alternatively, you may acquire the unminified CSS by executing this Python code, which will automatically beautify the minified CSS and output the timer's unminified CSS.
 
-       <pre>
       ```python
         import requests
         import cssbeautifier
@@ -36,7 +35,6 @@
         print(beautified_css)
 
       ```
-      </pre>
 
 3. If you don't want to modify anything and prefer the standard design, utilising the minified version of the CSS will be the best option because it has been entirely optimised. This version can be used by adding it using one of the ways listed below.
 
