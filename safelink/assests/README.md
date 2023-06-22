@@ -3,8 +3,13 @@
 **Note**: This directory contains the css of the timer. It contains two versions: a minified version for direct use and an unminified version if you want to customise it further.
 
 1. If you wish to modify the timer to your liking and needs, here is the unminified CSS version.
-</br>
-<div align='right'>
+
+<style>
+  .highlight.highlight-source-css.notranslate.position-relative.overflow-auto {
+    border-radius: 20px;
+    margin-left: 50px;
+}
+</style>
   
 ```css
 svg.counterline {
@@ -148,6 +153,5 @@ svg.counterline {
   display: none;
 }
 ```
-</div>
 
 2. If you don't want to modify anything and prefer the standard design, utilising the minified version of the CSS will be the best option because it has been entirely optimised. This version can be used by adding it using one of the ways listed below.
