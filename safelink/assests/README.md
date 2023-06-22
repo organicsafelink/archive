@@ -153,6 +153,6 @@ svg.counterline {
 
    (i) You can load the CSS externally using the below code; just add it above </head> in your site.
 
-       ```html
-       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.2/safelink/assests/timer-minified.min.css">
-       ```
+      ```markdown
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.2/safelink/assests/timer-minified.min.css">
+      ```
