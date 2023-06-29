@@ -1,4 +1,6 @@
-# Documentation
+# This version is no longer supported, use the latest version 1.2 for better fetaures and optimization.
+
+## Documentation
 
 1. Just add this JavaScript in your site above `</body>`
 
