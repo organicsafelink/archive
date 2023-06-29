@@ -42,7 +42,9 @@
     </div>
     </div>
     </div>
+    ```
 
+    ```html
     <!-- This is the button that will appear after the countdown. It's hidden by default. -->
     <div id="continueButtonMessage" style="display: none;flex-direction: column;align-items: center;" class="sky-note">
     <p class='pcustom' style="font-size: 1.3em;margin-bottom: -10px !important;" align='center'>Clicking on the <span class='pscustom'>Continue</span> button will redirect you to the Google search page. Click our site, <span class='pscustom'>Site_Name_Here</span>, from the first search result to get your link.</p> 
@@ -67,7 +69,9 @@
     </div>
     </div>
     </div>
+    ```
 
+    ```html
     <!-- This is the button that will appear after the countdown. It's hidden by default. -->
     <button class="bubbly-button" id="continueButton2" style="display: none;">Continue</button>
     ```
