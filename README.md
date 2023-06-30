@@ -13,7 +13,7 @@
     ```
     
     ```html
-    <script src='https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.2/safelink/code/script.min.js'></script>
+    <script src='https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.2.1/script.min.js'></script>
     ```
     
 2. In the HTML page/post in which you will add the link, add it like this:
