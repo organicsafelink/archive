@@ -83,5 +83,3 @@
     <!-- This is the button that will appear after the countdown. It's hidden by default. -->
     <button class="bubbly-button" id="continueButton2" style="display: none;">Go to Link</button>
     ```
-
-**Note**: Complete documentation coming soon.
