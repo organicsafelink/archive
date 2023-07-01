@@ -1,18 +1,3 @@
-<a href="https://example.com/destination" class="button">Button Text</a>
-
-<style>
-.button {
-  display: inline-block;
-  border-radius: 4px;
-  background-color: #<color>; /* Replace <color> with the desired background color */
-  color: #<text-color>; /* Replace <text-color> with the desired text color */
-  padding: 10px 20px;
-  text-decoration: none;
-  font-weight: bold;
-}
-</style>
-
-
 # Documentation
 
 **Note**: Video tutorial for wo.
