@@ -1,6 +1,9 @@
 # Documentation
 
 ### Video tutorial for wordpress is here 👉 [video link](https://www.youtube.com/watch?v=zBnZnqaUQJQ).
+### Video tutorial for blogger is here 👉 [video link](https://www.youtube.com/watch?v=ZMICx047g_g).
+
+
 
 1. Just add this JavaScript in your site above `</body>`
 
