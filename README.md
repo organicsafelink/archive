@@ -35,7 +35,9 @@
 
 3. In the post which you will redirect after clicking on one of the safe links, add the following code:
 
-    ```html
+    (i) Add this to the top of your post, so users can easily see the countdown timer when the safelink redirects to any of the random post URLs you've specified in the config.
+
+     ```html
     <!-- This is the countdown timer -->
     <div id="countdown" style="display: none;">
     <div class='safelink-countdown'></div>
@@ -52,6 +54,8 @@
     </div>
     ```
 
+    (ii) Put this at the bottom of your post so that when the countdown finishes, the "Continue" button shows at the bottom.
+
     ```html
     <!-- This is the button that will appear after the countdown. It's hidden by default. -->
     <div id="continueButtonMessage" style="display: none;flex-direction: column;align-items: center;" class="sky-note">
@@ -60,7 +64,7 @@
     </div>
     ```
 
-4. Lastly, add the following code on the homepage of your site where you will send the user from the search page:
+5. Lastly, add the following code on the homepage of your site where you will send the user from the search page:
 
     ```html
    <!-- This is the countdown timer -->
