@@ -2,8 +2,10 @@
 
 ### # Video tutorial for wordpress is here 👉 [video link](https://www.youtube.com/watch?v=zBnZnqaUQJQ).
 ### # Video tutorial for blogger is here 👉 [video link](https://www.youtube.com/watch?v=ZMICx047g_g).
-### # You can know the status of the safelink by sending https request at `xqc.amanstark.com`
+### # You can know the status of the safelink by sending http request at `xqc.amanstark.com`
 ### # Use this Telegram bot to raise issues, offer suggestions, and report bugs, as well as to check the status of the safelink 👉 [bot link](https://t.me/therandombot).
+### # When a new version is launched, a toast will appear on your site prompting you to upgrade to the most recent version, as seen below.
+![Alt Text](https://www.amanstark.com/wp-content/uploads/2023/07/ezgif-2-1e6254840d_AdobeExpress.gif)
 <br>
 
 # Documentation
