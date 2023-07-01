@@ -1,5 +1,4 @@
 # Video tutorial for wordpress is here 👉 [video link](https://www.youtube.com/watch?v=zBnZnqaUQJQ).
-<br>
 # Video tutorial for blogger is here 👉 [video link](https://www.youtube.com/watch?v=ZMICx047g_g).
 
 ## Documentation
