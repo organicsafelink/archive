@@ -4,7 +4,7 @@
 ### Video tutorial for blogger is here 👉 [video link](https://www.youtube.com/watch?v=ZMICx047g_g).
 <br>
 
-### You can know the status of the safelink by sending https request at `[xqc.amanstark.com](https://xqc.amanstark.com)`
+### You can know the status of the safelink by sending https request at `xqc.amanstark.com`
 ### You may also use this Telegram bot to raise issues, offer suggestions, and report bugs, as well as to check the status of the safelink 👉 [bot link](https://t.me/therandombot).
 <br>
 
