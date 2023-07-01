@@ -66,6 +66,8 @@
 
 5. Lastly, add the following code on the homepage of your site where you will send the user from the search page:
 
+    (i) Add this to the top of your site's homepage so users can easily see the countdown timer after coming from the Google search page.
+
     ```html
    <!-- This is the countdown timer -->
     <div id="countdown2" style="display: none;">
@@ -83,7 +85,11 @@
     </div>
     ```
 
+    (ii) Add this button at the bottom of your site's homepage so that when the countdown finishes, the "Go to Link" button shows at the bottom.
+
     ```html
     <!-- This is the button that will appear after the countdown. It's hidden by default. -->
+    <div align='center'>
     <button class="bubbly-button" id="continueButton2" style="display: none;">Go to Link</button>
+    </div>
     ```
