@@ -99,3 +99,5 @@
     <button class="bubbly-button" id="continueButton2" style="display: none;">Go to Link</button>
     </div>
     ```
+
+**Credits**: Organic Safelink v1.2 created by [Aman Singh](https://www.amanstark.com).
