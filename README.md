@@ -8,6 +8,8 @@
 
 # Documentation
 
+<br>
+
 1. Just add these two JavaScript's in your site above `</body>`
 
     ```javascript
