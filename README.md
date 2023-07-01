@@ -1,6 +1,6 @@
 # Documentation
 
-**Note**: Video tutorial for wo.
+**Note**: Video tutorial for wordpress is here 👉 [video link](https://www.youtube.com/watch?v=zBnZnqaUQJQ).
 
 1. Just add this JavaScript in your site above `</body>`
 
