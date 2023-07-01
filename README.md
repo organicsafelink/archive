@@ -8,7 +8,7 @@
 
 
 
-1. Just add this JavaScript in your site above `</body>`
+1. Just add these two JavaScript's in your site above `</body>`
 
     ```javascript
     <script>
