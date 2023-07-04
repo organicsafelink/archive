@@ -16,6 +16,8 @@
 
 1. Just add these two JavaScript's in your site above `</body>`
 
+    (i) For Wordpress 👇
+
     ```javascript
     <script>
     const config = {
@@ -29,8 +31,24 @@
     ```html
     <script src='https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.2.1/script.min.js'></script>
     ```
+
+    (ii) For Blogger 👇
+
+    ```javascript
+    <script>/*<![CDATA[*/
+    const config = {
+    postsArray: ['post1.html', 'post2.html', 'post3.html'], // Array of your random post URLs
+    googleRedirectURL: 'https://www.google.com/search?q=site:YourWebsite.com', // Google search URL
+    countdownSeconds: 30, // Countdown timer variable
+    };
+    /*]]>*/</script>
+    ```
     
-2. In the HTML page/post in which you will add the link, add it like this:
+    ```html
+    <script src='https://cdn.jsdelivr.net/gh/theamanstark/organic-safelink@1.2.1/script.min.js'></script>
+    ```      
+    
+3. In the HTML page/post in which you will add the link, add it like this:
 
     ```html
     <!-- These are the links on your original website. Add as many as you like. -->
@@ -39,7 +57,7 @@
     <a href="#" data-url="https://www.your_destination_url_3.com" class="redirectLink">Go to destination 3</a>
     ```
 
-3. In the post which you will redirect after clicking on one of the safe links, add the following code:
+4. In the post which you will redirect after clicking on one of the safe links, add the following code:
 
     (i) Add this to the top of your post, so users can easily see the countdown timer when the safelink redirects to any of the random post URLs you've specified in the config.
 
