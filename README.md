@@ -55,9 +55,6 @@
     <a href="#" data-url="https://www.your_destination_url_1.com" class="redirectLink">Go to destination 1</a>
     <a href="#" data-url="https://www.your_destination_url_2.com" class="redirectLink">Go to destination 2</a>
     <a href="#" data-url="https://www.your_destination_url_3.com" class="redirectLink">Go to destination 3</a>
-    .
-    .
-    .
     <!-- You can create an infinite number of safe links; just keep adding them according to your needs. -->
     ```
 
