@@ -8,7 +8,7 @@
 ### # When a new version is launched, a toast will appear on your site prompting you to upgrade to the most recent version, as shown below 👇
 <br>
 
-![Safelink Toast](https://www.amanstark.com/wp-content/uploads/2023/07/ezgif-2-1e6254840d_AdobeExpress.gif)
+![Safelink Toast](https://github.com/theamanstark/organic-safelink/raw/1.2.1/assets/toast.gif)
 <br>
 <br>
 
