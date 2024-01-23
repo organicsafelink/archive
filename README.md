@@ -1,4 +1,4 @@
-# This version is no longer supported, use the latest version 1.2 for better features and optimisations.
+# This version is no longer supported, use the latest version 1.2 for better features and optimizations.
 
 ## Documentation
 
