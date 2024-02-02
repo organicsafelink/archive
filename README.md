@@ -3,7 +3,7 @@
 ### # Demo 👉 [click here](https://go.amanstark.com/safelink-demo). 
 ### # Video tutorial for wordpress is here 👉 [video link](https://www.youtube.com/watch?v=zBnZnqaUQJQ).
 ### # Video tutorial for blogger is here 👉 [video link](https://www.youtube.com/watch?v=ZMICx047g_g).
-### # You can know the status of the safelink by sending http request at `amanstark.com/safelink-status`
+### # You can know the status of the safelink by sending http request at `amanstark.com/safelink`
 ### # Use this Telegram bot to raise issues, offer suggestions, and report bugs, as well as to check the status of the safelink 👉 [bot link](https://t.me/therandombot).
 ### # When a new version is launched, a toast will appear on your site prompting you to upgrade to the most recent version, as shown below 👇
 <br>
