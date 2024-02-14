@@ -2,6 +2,8 @@
 
 ### This repository is just now a read-only archive; all future versions of organic-safelink and its different variants will be launched under `github.com/organicsafelink` at `organicsafelink.com`. We're still working on the future version of this tool, and it's going to be a major update, so please bear with us.
 
+[![](https://data.jsdelivr.com/v1/package/gh/theamanstark/organic-safelink/badge)](https://www.jsdelivr.com/package/gh/theamanstark/organic-safelink)
+
 <br>
 
 # Key Information
