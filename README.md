@@ -1,6 +1,6 @@
 # Important Notice ‼️ [![](https://data.jsdelivr.com/v1/package/gh/theamanstark/organic-safelink/badge)](https://www.jsdelivr.com/package/gh/theamanstark/organic-safelink)
 
-### This repository is just now a read-only archive; all future versions of organic-safelink and its different variants will be launched under <a href='https://github.com/organicsafelink>'`github.com/organicsafelink`</a> at `organicsafelink.com`. We're still working on the future version of this tool, and it's going to be a major update, so please bear with us.
+### This repository is just now a read-only archive; all future versions of organic-safelink and its different variants will be launched under [github.com/organicsafelink](https://github.com/organicsafelink) at [organicsafelink.com](https://organicsafelink.com). We're still working on the future version of this tool, and it's going to be a major update featuring [future version of this tool](URL_to_future_version_details), so please bear with us. 
 
 <br>
 
